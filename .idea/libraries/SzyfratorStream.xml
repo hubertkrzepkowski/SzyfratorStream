@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SzyfratorStream">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/SzyfratorStream.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
